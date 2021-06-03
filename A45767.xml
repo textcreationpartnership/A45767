@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland's amazement, or, The heavens armado being a true relation of two strange and prodigious wonders or apparitions, which was seene over the city of Dublin, the one Decemb. 24 and the other Decemb. 30, 1641 : which appeared in the heavens like to an host of armed men with great ordnance as it were giving fire and all other furniture for warre, with other fearefull signes : with strange visions put the city and inhabitants into great astonishment and feare : and may serve as a warning peece for England in these troublesome and distracted times.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45767</idno><idno type="EEBO-CITATION">12988996</idno>
+  <idno type="VID">96294</idno>
+  <idno type="EEBO-PROQUEST">2240850646</idno>
+  
+            <idno type="STC">Wing I1017</idno>
+            <idno type="STC">ESTC R7203</idno>
+            <idno type="OCLC">12988996</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 257:E181, no 41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland's amazement, or, The heavens armado being a true relation of two strange and prodigious wonders or apparitions, which was seene over the city of Dublin, the one Decemb. 24 and the other Decemb. 30, 1641 : which appeared in the heavens like to an host of armed men with great ordnance as it were giving fire and all other furniture for warre, with other fearefull signes : with strange visions put the city and inhabitants into great astonishment and feare : and may serve as a warning peece for England in these troublesome and distracted times.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Dublin (Ireland) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:96294:1"/>
+            <p>
+               <figure>
+                  <figDesc>English coat of arms, circa 1642</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96294:1"/>
+            <p>IRELANDS Amazement, Or the Heavens ARMADO. Being a true Relation of two strange and prodigious wonders or Apparitions, which was seene over the City of <hi>Dublin,</hi> the one <hi>Decemb.</hi> 24. and the other <hi>Decemb.</hi> 30. 1641.</p>
+            <p>Which appeared in the Heavens like to an host of Ar<g ref="char:EOLhyphen"/>med men with great Ordnance as it were giving fire, and all other furniture for warre, with other fearefull signes.</p>
+            <p>Which strange Visions put the City and Inhabitants into great astonishment and feare.</p>
+            <p>And may serve as a warning peece for <hi>En<g ref="char:EOLhyphen"/>gland</hi> in these troublesome and distracted times:</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:96294:2"/>
+            <pb facs="tcp:96294:2"/>
+            <head>
+               <hi>Dublins</hi> warning Peece, OR, The Heavens Armado, with a Spurre to Repentance.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been reported from Antiquity, and our Fathers have foretold us concerning the impious and nefarious imaginations of the Children of the age to come the which being verified in these pre<g ref="char:EOLhyphen"/>sent times, we ought to take into our serious considerati<g ref="char:EOLhyphen"/>on the present and now imminent deuger ordained by the direfull wrath of the just and Almighty God; True it is, that we have like <hi>Icarus</hi> (scorning the Counfell of our all creating Father God) soared so high with the waxed wings of our humane and mor<g ref="char:EOLhyphen"/>tall invention, that we are almost fallen into the sur<g ref="char:EOLhyphen"/>ging Ocean of this our present misery, and the wings of our vaine and selfe-conceited inventions are Sun<g ref="char:EOLhyphen"/>burnt with the hot and melting Sunne of Gods wrath. The prodigious Apparitions in the Heavens doe shew and forewarne us from proceeding into our daily vices and hainous iniquities; As lately for Example sake.</p>
+            <pb facs="tcp:96294:3"/>
+            <p>Vpon the 30. day of <hi>Decenth.</hi> last, <hi>Anno,</hi> 1641. There did appeare in the sight of the Juhabitants of the City of <hi>Dublin</hi> a prodigious Apparition in the Firmament, the similitude whereof I shall truely de<g ref="char:EOLhyphen"/>monstrate in this present Declaration; There ap<g ref="char:EOLhyphen"/>peared a great host of Armed men in the likenesse of horse and Foot, and according to humane suppositi<g ref="char:EOLhyphen"/>on they seemed innumerable, when especially were notified to the eye of the aforesaid beholders of the City of <hi>Dublin,</hi> a traine of Artillery with great Ord<g ref="char:EOLhyphen"/>nance and Field peeces, as necessary for Battell, where also was presented to the amazement of the behol<g ref="char:EOLhyphen"/>ders, Gunners giving fire in direfull and hideous manner, that the very likenesse of the flames there<g ref="char:EOLhyphen"/>of, strooke the beholders with great astonishment and admiration.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Oh is it not time therefore for <hi>Israell</hi> to repent and call to the Lord that he would reforme her wicked wayes? Oh it is the vengeance of the Lord, not that we are in erroneous and false Doctrinall Religion; But by reason that we forget to worship God our Creator.</p>
+            <p>Did not the Lord suffer the <hi>Philistins</hi> to vanquish and overcome <hi>Israel,</hi> because they gave themselves over to all vice and carnall delights of the flesh, and running headlong after strange Gods, forgetting the Lord Almighty, that conducted them out of the Bon<g ref="char:EOLhyphen"/>dage of <hi>Pharoah,</hi> and the slavery of the <hi>Egyptians.</hi>
+            </p>
+            <p>Oh let us with <hi>Peter</hi> mourne and lament for the de<g ref="char:EOLhyphen"/>niall of Gods true Worship; Oh let the eyes of out Repentance, like the Rocks of <hi>Marah</hi> power forth the abundant and flowing streames of Repentance,
+<pb facs="tcp:96294:3"/>that our God, the God of infinite mercy, may with<g ref="char:EOLhyphen"/>stand the hand of those mercilesse and irreligious <hi>Caitisses</hi> of the blood-sucking Rebels of <hi>Ireland,</hi> vn<g ref="char:EOLhyphen"/>der whose Tyranny our Protestants lye groaning; Oh that the Lord would vnite our hearts in the true and fervent prayer of <hi>Manasses.</hi>
+            </p>
+            <p>Oh that we might have a <hi>David</hi> sent from the Lord to slay the vaunting <hi>Goliah</hi> of those daring Re<g ref="char:EOLhyphen"/>bels, then should <hi>Israel</hi> see manifold blessings, the blessings of the Lord, and learne how to praise God her Maker, If the tares of blind superstition and Jdo<g ref="char:EOLhyphen"/>latry were rooted out and clensed from the good Seed of the pure Gospell; Then should wee know, how to praise the Lord and rejoyce in his Holy Name.</p>
+         </div>
+         <div type="account">
+            <head>A strange Wonder.</head>
+            <p>GReat are the wonderfull workes of God, and innumerable are the Signes and Wonders, by which he expresses &amp; foretels his judge<g ref="char:EOLhyphen"/>ments, striving by that meanes to deterre mankind from sinning.</p>
+            <p>And that this Miracle may not be esteem'd fabu<g ref="char:EOLhyphen"/>lous, and vaine, (too many hearts being hardned with vnbeliefe, which vainely thinke that such things are occasioned by chance, and not by divine providence)
+<pb facs="tcp:96294:4"/>therefore J have thought good to give you some te<g ref="char:EOLhyphen"/>stimonies in the like nature, which have hapned on other Countries, which have sound by sad experience, the effect of those dismall, and amazing Appari<g ref="char:EOLhyphen"/>tions.</p>
+            <p>
+               <hi>In Silesia at Trappa, Crowas fought a mortall Battell, Feb.</hi> 1625.</p>
+            <p>
+               <hi>At Hessen likewise flights of Birds fought and kild each other, March</hi> 1635.</p>
+            <p>
+               <hi>Many other Signes and Wonders I could relate which were the fore-runners of desolation and destruction.</hi>
+            </p>
+            <p>
+               <hi>A neerer Testimony I can give you which hath lately happened at Worsop in Nottinghamshire on the</hi> 16. <hi>day of Novemb. last,</hi> 1641. <hi>A certaine Maia lay dead the space of</hi> 20. <hi>houres, afterwards she came to life againe and made a strange and wonderfull Prophecie, fore-telling strange and wonderfull alterations in these Kingdomes, without speedy repentance, declaring how neere Gods Iudgements were at hand, and ready to fall upon our heads.</hi>
+            </p>
+            <p>Likewife at <hi>Dublin</hi> on Christmas Eve last, 1641. was a true information sent to an Alderman of <hi>London</hi> frō his Factor in <hi>Ireland,</hi> of a strange wonder seen on the same day about 4. of the clock in the afternoone it growing dark, such an incredible number of Sea Guls, Ravens and Crowes assembled together, fluttering, croaking, and pewling over our heads in so strange a hideous manner, that they astonished all the Jnhabi<g ref="char:EOLhyphen"/>tants, and thus continued till 6. at night, being an houre especially at this time of the yeare, that Fowle seldome are seene or heard abroad, nay the shooting of many Muskets, and of divers pieces from the Ca<g ref="char:EOLhyphen"/>stle
+<pb facs="tcp:96294:4"/>could not affright or scarre them away, nay we in my very conscience were more affraid of them, then they of us, what it should mea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k: I cannot di<g ref="char:EOLhyphen"/>vine, but the oldest man in <hi>Dublin,</hi> either English or Jrish never saw the like, but by this wee have cause to conjecture, that God by those Apparitions fore-tels his judgements in Signes and Wonders, which without speedy Repentance, wee have cause to feare will suddainly fall upon us, God I beseech him avert them, and give us penitent hearts, so that we may truely loath our sinnes and turne to the Lord our God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
